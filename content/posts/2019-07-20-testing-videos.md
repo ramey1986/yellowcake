@@ -11,3 +11,7 @@ excerpt: >-
   picture-in-picture" allowfullscreen></iframe>
 ---
 testing out vids and iframe
+
+
+
+<iframe width="560" height="315" src="https://embed.videzup.top/video/19bossthree907" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
